@@ -1,0 +1,55 @@
+h1 {
+  text-align: center;
+  color: white;
+  background-color: green;
+  font-family: arial;
+}
+
+h2 {
+   color: red;
+   font-family: monospace;
+   background-color: white;
+   width: 250px;
+   text-align: center;
+}
+
+img {
+   float: left;
+   margin-left: 1px;
+   display: flex;
+   padding: 30px;
+   width: 500px;
+   height: 300px;
+   border-radius: 150px;
+   border-color: black;
+}
+
+.text-salah {
+   border-radius: 5px;
+   text-align: left;
+   display: flex;
+   color: red;
+   font-family: cursive;
+}
+
+.puskas {
+   text-align: center;
+   background-color: white;
+   font-family: sans-serif;
+}
+
+* {
+  margin: 9px;
+  border: black solid 2px;
+  background-color: rgba(0,0,0,0.15);
+}
+a {
+  float: left;
+  display: flex;
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  padding-top: 150px;
+  padding-bottom: 50px;
+  color: white;
+}
